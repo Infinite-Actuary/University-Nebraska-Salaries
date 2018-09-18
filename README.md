@@ -2,7 +2,7 @@
 
 This document includes professor salaries at UNL 2018-2019. For example:
 
-[Economics Faculty](https://business.unl.edu/about-us/faculty-and-staff-directory/?DepartmentID=4&Faculty=1)
+[UNL Economics Faculty](https://business.unl.edu/about-us/faculty-and-staff-directory/?DepartmentID=4&Faculty=1)
 
 | Faculty           	| Salary     	|
 |-------------------	|------------	|
